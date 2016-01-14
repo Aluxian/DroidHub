@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="15dp"
+        android:paddingTop="10dp"
+        android:gravity="center"
+        >
+
+    <ImageView
+            android:id="@+id/refreshLeft"
+            style="@style/DroidHub.RefreshShape"
+            />
+
+    <ImageView
+            android:id="@+id/refreshMiddle"
+            style="@style/DroidHub.RefreshShape"
+            android:layout_marginLeft="7dp"
+            android:layout_toRightOf="@id/refreshLeft"
+            />
+
+    <ImageView
+            android:id="@+id/refreshRight"
+            style="@style/DroidHub.RefreshShape"
+            android:layout_marginLeft="7dp"
+            android:layout_toRightOf="@id/refreshMiddle"
+            />
+
+</RelativeLayout>

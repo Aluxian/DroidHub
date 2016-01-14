@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Preferences">
+        <CheckBoxPreference
+                android:title="Hide unknown"
+                android:key="HIDE_UNKNOWN"
+                android:summary="Hide calls and messages from people not in your contact list"
+                android:defaultValue="true"
+                />
+        <CheckBoxPreference
+                android:title="Background refresh"
+                android:key="BACKGROUND_REFRESH"
+                android:summary="Get new activity when the app is not running"
+                android:defaultValue="true"
+                />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Info">
+        <Preference
+                android:title="Give feedback"
+                android:summary="Help us by reporting bugs and suggesting new features!"
+                android:key="SEND_FEEDBACK"
+                />
+        <Preference
+                android:title="App version"
+                android:key="APP_VERSION_INFO"
+                />
+    </PreferenceCategory>
+</PreferenceScreen>

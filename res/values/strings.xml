@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Droid Hub</string>
+    <string name="list_refresh">No activity\nPlease refresh</string>
+
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_add">Add</string>
+
+    <string name="menu_add_call">Call Logs</string>
+    <string name="menu_add_sms">SMS Messages</string>
+    <string name="menu_add_tw_mn">Twitter Mentions</string>
+    <string name="menu_add_tw_dm">Twitter DMs</string>
+    <string name="menu_add_gmail">Gmail</string>
+</resources>
