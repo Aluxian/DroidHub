@@ -1,6 +1,6 @@
 # DroidHub
 
-Droid Hub android app official repository. Download the app from [droidhub.me/app](http://droidhub.me/app)
+Droid Hub android app official repository.
 
 ## Contact
 Get in touch with the developer: [aluxian.com](http://www.aluxian.com)
