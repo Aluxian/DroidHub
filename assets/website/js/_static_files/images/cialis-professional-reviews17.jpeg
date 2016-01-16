@@ -1,0 +1,525 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<html>
+<head>
+<title>MASS MoCA - Blog</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="http://blog.massmoca.org/wp-content/themes/massmoca1-1/style.css" type="text/css">
+<link rel="stylesheet" href="http://blog.massmoca.org/wp-content/themes/massmoca1-1/solidblocksmenu.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://blog.massmoca.org/wp-content/themes/massmoca1-1/glowtabs.css" />
+<link rel="alternate" type="application/rss+xml" title="The MASS MoCA Blog RSS Feed" href="http://blog.massmoca.org/feed/rss/" />
+<link rel="pingback" href="http://blog.massmoca.org/xmlrpc.php" />
+<link rel="icon" href="http://www.massmoca.org/favicon.gif"  type="image/x-icon" />
+        
+<LINK REL="SHORTCUT ICON" HREF="http://www.massmoca.org/favicon.ico">
+
+<link href="style.css" rel="stylesheet" type="text/css">
+
+
+<script language="JavaScript">
+<!--
+//
+if (document.images) {
+   image1on = new Image();
+   image1on.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_calendar_on.gif";
+   image1off = new Image();
+   image1off.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_calendar_off.gif";
+
+   image2on = new Image();
+   image2on.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_galleries_on.gif";
+   image2off = new Image();
+   image2off.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_galleries_off.gif";
+   
+   image3on = new Image();
+   image3on.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_performingarts_on.gif";
+   image3off = new Image();
+   image3off.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_performingarts_off.gif";
+
+   image4on = new Image();
+   image4on.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_visit_on.gif";
+   image4off = new Image();
+   image4off.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_visit_off.gif";
+   
+   image5on = new Image();
+   image5on.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_about_on.gif";
+   image5off = new Image();
+   image5off.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_about_off.gif";
+
+   image6on = new Image();
+   image6on.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_support_on.gif";
+   image6off = new Image();
+   image6off.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_support_off.gif";
+
+   image7on = new Image();
+   image7on.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_shop_on.gif";
+   image7off = new Image();
+   image7off.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_shop_off.gif";  
+   
+   image8on = new Image();
+   image8on.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_blog_on.gif";
+   image8off = new Image();
+   image8off.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_blog_off.gif";  
+   
+   image9on = new Image();
+   image9on.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_kidspace_on.gif";
+   image9off = new Image();
+   image9off.src = "http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_kidspace_off.gif";  
+   
+}
+
+function changeImages() {
+   if (document.images) {
+     for (var i=0; i<changeImages.arguments.length; i+=2) {
+       document[changeImages.arguments[i]].src =
+eval(changeImages.arguments[i+1] + ".src");
+     }
+   }
+}
+// -->
+</script> <script src="http://blog.massmoca.org/wp-content/themes/massmoca1-1/AC_RunActiveContent.js" type="text/javascript"></script>
+
+
+</head>
+
+
+
+
+<body> 
+
+<div align="center">
+
+
+<table width="800" border="0" cellpadding="0" cellspacing="0">
+<tr>
+
+		<td width="20" height="90">
+			<img src="/wp-content/themes/massmoca1-1/images/main-table-topleft.gif" width="20" height="90" alt=""></td>
+	  <td height="90" colspan="5" valign="top" align="left"><script type="text/javascript" src="http://blog.massmoca.org/wp-content/themes/massmoca1-1/ddtabmenu.js">
+
+<!--/***********************************************
+* DD Tab Menu script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/ -->
+
+</script>
+<!-- CSS for Tab Menu #2 -->
+<link rel="stylesheet" type="text/css" href="http://blog.massmoca.org/wp-content/themes/massmoca1-1/glowtabs.css" />
+<link rel="stylesheet" type="text/css" href="http://blog.massmoca.org/wp-content/themes/massmoca1-1/solidblocksmenu.css" />
+
+<script type="text/javascript">
+//SYNTAX: ddtabmenu.definemenu("tab_menu_id", integer OR "auto")
+ddtabmenu.definemenu("ddtabs1", 0) //initialize Tab Menu #1 with 1st tab selected
+ddtabmenu.definemenu("ddtabs2", 1) //initialize Tab Menu #2 with 2nd tab selected
+ddtabmenu.definemenu("ddtabs3", 1000) //initialize Tab Menu #3 with 2nd tab selected
+ddtabmenu.definemenu("ddtabs4", 2) //initialize Tab Menu #4 with 3rd tab selected
+ddtabmenu.definemenu("ddtabs5", 0) //initialize Tab Menu #5 with 1st tab selected
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+MM_preloadImages('http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_kidspace_on.gif','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_blog_on.gif','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_shop_on.gif','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_support_on.gif','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_about_on.gif','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_visit_on.gif','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_performingarts_on.gif','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_galleries_on.gif','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_calendar_on.gif');
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+</script>
+
+<table width="760" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCCCCC">
+  <tr>
+    <td width="30" height="90" rowspan="3" valign="top"><img name="LEFTEDGE" src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="1" height="1" alt=""></td>
+    <td colspan="9"><table width="700" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="200" height="34" valign="top"><a href="http://www.massmoca.org" target="_top"><img src="/wp-content/themes/massmoca1-1/images/top_logo.gif" alt="MASS MoCA" name="logo" width="200" height="34" border="0"></a></td>
+        <td width="250" height="34">&nbsp;</td>
+       <form action="http://www.massmoca.org/massmoca_search_results.php" id="searchbox_008963240389130544666:b1yyn0u9ovk"> <td width="250" height="34" valign="bottom">   
+              <div align="right"> <!-- Google CSE Search Box Begins  -->
+
+                        <input type="hidden" name="cx" value="008963240389130544666:b1yyn0u9ovk" />
+                        <input type="hidden" name="cof" value="FORID:11" />
+                <input name="q" type="text" class="search-fields" size="25" />
+                <input name="sa" type="submit" class="search-fields" value="Search" />
+                            
+    
+            <!-- Google CSE Search Box Ends -->
+            </div>
+         </td>     </form> 
+      </tr>
+      
+      <tr>
+        <td height="10" colspan="3" valign="top"><img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="1" height="1" /></td>
+        </tr>
+      
+    </table></td>
+    <td width="30" height="90" rowspan="3" valign="top"><img name="rightedge" src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="1" height="1" alt=""></td>
+  </tr>
+  
+  <tr>
+    <td height="45" valign="top" colspan="9">
+  		<link href="http://blog.massmoca.org/wp-content/themes/massmoca1-1/solidblocksmenu.css" rel="stylesheet" type="text/css" />
+
+
+
+<div id="ddtabs3" class="solidblockmenu">
+<table width="700" border="0" align="center" cellpadding="0" cellspacing="0" vspace="0">
+<tr bgcolor="#FFFFFF">
+
+ 
+
+ <!-- IN THE GALLERIES -->
+ <td width="126" height="20" valign="top"><a href="http://www.massmoca.org/search_results.php?st=2&search=11" rel="sb2"><img src="http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_galleries_off.gif" name="image2" onmouseover="changeImages('image2', 'image2on')" onmouseout="changeImages('image2', 'image2off') " border="0" class="solidblockmenu"/></a></td>
+ 
+ <!--  LIVE EVENTS -->
+ <td width="109" height="20" valign="top"><a href="http://www.massmoca.org/search_results.php?st=2&search=30" rel="sb3"><img src="http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/nav_performingarts_off.gif" name="image3" onmouseover="changeImages('image3', 'image3on')" onmouseout="changeImages('image3', 'image3off')  " border="0" class="solidblockmenu" /></a></td>
+ 
+<!--  VISIT -->
+ <td width="66" height="20" valign="top"><a href="http://www.massmoca.org/visitor-info.php" rel="sb4"><img src="/wp-content/themes/massmoca1-1/images/nav_visit_off.gif" 
+ name="image4" onmouseover="changeImages('image4', 'image4on')" onmouseout="changeImages('image4', 'image4off') " border="0" class="solidblockmenu" /></a></td>
+ 
+ <!--  ABOUT -->
+ <td width="74" height="20" valign="top"><a href="http://www.massmoca.org/mission.php" rel="sb5"><img src="/wp-content/themes/massmoca1-1/images/nav_about_off.gif" 
+name="image5" onmouseover="changeImages('image5', 'image5on')" onmouseout="changeImages('image5', 'image5off') " border="0" class="solidblockmenu" /></a></td>
+ 
+ <!--  SUPPORT -->
+ <td width="88" height="20" valign="top"><a href="http://www.massmoca.org/membership.php" rel="sb6"><img src="/wp-content/themes/massmoca1-1/images/nav_support_off.gif" 
+ name="image6" onmouseover="changeImages('image6', 'image6on')" onmouseout="changeImages('image6', 'image6off') " border="0" class="solidblockmenu" /></a></td>
+ 
+ <!--  SHOP -->
+ <td width="68" height="20" valign="top"><a href="http://www.massmocashopping.org"><img src="/wp-content/themes/massmoca1-1/images/nav_shop_off.gif" name="image7" onmouseover="changeImages('image7', 'image7on')" onmouseout="changeImages('image7', 'image7off')" border="0" class="solidblockmenu" /></a></td>
+ 
+ <!--  CONNECT -->
+ <td width="88" height="20" valign="top"><a href="http://blog.massmoca.org"><img src="/wp-content/themes/massmoca1-1/images/nav_blog_off.gif" name="image8" onmouseover="changeImages('image8', 'image8on')" onmouseout="changeImages('image8', 'image8off')" border="0" class="solidblockmenu"  /></a></td>
+ 
+ <!--  KIDSPACE -->
+ <td width="87" height="20" valign="top"><a href="http://kidspace.massmoca.org"><img src="/wp-content/themes/massmoca1-1/images/nav_kidspace_off.gif" name="image9" onmouseover="changeImages('image9', 'image9on')" onmouseout="changeImages('image9', 'image9off')" border="0" class="solidblockmenu" /></a></td>
+</tr>
+<tr>
+  <td height="4" colspan="9" valign="top" bgcolor="#CCCCCC"><img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="700" height="4" /></td>
+  </tr>
+
+</table>
+</div>
+
+<DIV class="tabcontainer ieclass">
+<table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+
+ <!-- <div id="sb1" class="tabcontent">
+<a href="http://www.massmoca.org/search_results.php?st=2&search=11">IN THE GALLERIES</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/search_results.php?st=2&search=30">PERFORMING ARTS</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/thisweek.php">THIS WEEK @ MASS MoCA</a></div> -->
+
+<div id="sb2" class="tabcontent">
+<a href="http://www.massmoca.org/search_results.php?st=2&search=11">CURRENT</a> &nbsp;&nbsp; 
+&bull; <a href="http://www.massmoca.org/search_results.php?st=4&search=11">UPCOMING</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/search_results.php?st=2&search=13">ONGOING</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/search_results.php?st=2&search=34">OPENING</a> &nbsp;&nbsp; 
+&bull; <a href="http://www.massmoca.org/search_results.php?st=3&search=11">ARCHIVES</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/lewitt">SOL LEWITT RETROSPECTIVE</a></div>
+
+<div id="sb3" class="tabcontent">
+<a href="http://www.massmoca.org/search_results.php?st=2&search=30">ALL</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/search_results.php?st=2&search=14">MUSIC</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/search_results.php?st=2&search=15">THEATER</a>  &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/search_results.php?st=2&search=16">DANCE</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/search_results.php?st=2&search=17">FILM</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/search_results.php?st=2&search=18">FILM WITH LIVE MUSIC</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/search_results.php?st=2&search=19">DANCE PARTIES</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/search_results.php?st=2&search=20">KIDS</a></div>
+
+<div id="sb4" class="tabcontent">
+<a href="http://www.massmoca.org/visitor-info.php">HOURS</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/directions.php">DIRECTIONS</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/groups.php">GROUPS</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/dining.php">DINING</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/lodging.php">LODGING</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/berkshires.php">BERKSHIRES</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/dream-home.php">REAL ESTATE</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/search_results.php?st=2&search=30">TICKETS</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/podcasts.php">PODCASTS</a></div>
+
+<div id="sb5" class="tabcontent">
+<a href="http://www.massmoca.org/mission.php">MISSION</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/history.php">HISTORY</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/facts.php">FACTS</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/leadership.php">LEADERSHIP</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/contact.php">CONTACT</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/rentals.php">RENTALS</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/lease.php">LEASE SPACE</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/opportunities.php">JOBS</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/faq.php">FAQ</a> &nbsp;&nbsp;
+&bull; <a href="http://www.massmoca.org/teachers.php">TEACHERS</a>
+</div>
+
+<div id="sb6" class="tabcontent">
+<a href="http://www.massmoca.org/membership.php">MEMBERSHIP</a> &nbsp;
+&bull; <a href="http://www.massmoca.org/business-membership.php">BUS. MEMBERSHIP</a> &nbsp;
+&bull; <a href="http://www.massmoca.org/gift-membership.php">GIFT MEMBERSHIPS</a> &nbsp;
+&bull; <a href="http://www.massmoca.org/annual-fund.php">ANNUAL FUND</a> &nbsp;
+&bull; <a href="http://www.massmoca.org/donors.php">DONORS</a> &nbsp;
+&bull; <a href="http://www.massmoca.org/permanence.php">CAMPAIGN</a>
+</div>
+</td>
+  </tr>
+</table>
+</DIV>  	</td>
+  </tr>
+
+</table></td>
+		<td width="58" height="90">
+			<img src="/wp-content/themes/massmoca1-1/images/main-table-topright.gif" width="20" height="90" alt=""></td>
+	</tr>
+	<tr>
+
+		<td>
+			<img src="/wp-content/themes/massmoca1-1/images/main-table-median01.gif" width="20" height="5" alt=""></td>
+		<td width="30">
+			<img src="/wp-content/themes/massmoca1-1/images/main-table-median02.gif" width="30" height="5" alt=""></td>
+<td>
+			<img src="/wp-content/themes/massmoca1-1/images/main-table-median03.gif" width="160" height="5" alt=""></td>
+<td width="20">
+			<img src="/wp-content/themes/massmoca1-1/images/main-table-median04.gif" width="20" height="5" alt=""></td>
+<td bgcolor="#CCCCCC">
+
+			<img src="/wp-content/themes/massmoca1-1/images/main-table-median05.gif" width="520" height="5" alt=""></td>
+<td width="30">
+			<img src="/wp-content/themes/massmoca1-1/images/main-table-median06.gif" width="30" height="5" alt=""></td>
+<td>
+			<img src="/wp-content/themes/massmoca1-1/images/main-table-median07.gif" width="20" height="5" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="4" bgcolor="#CCCCCC" background="/wp-content/themes/massmoca1-1/images/leftedge-tile.gif">&nbsp;</td>
+		<td rowspan="2" bgcolor="#cccccc">&nbsp;</td>
+
+		<td width="160" height="411" valign="top" align="left" BGCOLOR="#cccccc">
+		
+		
+	<table width="160" height="411" border="0" cellpadding="0" cellspacing="0" BGCOLOR="#CCCCCC">
+
+
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<body onload="MM_preloadImages('http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/rss-2.gif')">	<div id="sidebar">
+
+<img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="1" height="5">
+
+
+<div><a href="http://blog.massmoca.org" target="_self"><img src="/wp-content/themes/massmoca1-1/images/blogtop.gif" alt="The MASS MoCA Blog" width="150" height="150" border="0" /></a></div>
+<br />
+
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+<form method="get" id="searchform" action="http://blog.massmoca.org/">
+<div><input name="s" type="text" class="search-fields" id="s" value="" size="20" />
+</div>
+<div><input type="submit" class="search-fields" id="searchsubmit" style="margin-top:5px;" value="Search the blog" />
+</div>
+</form>
+
+<img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="1" height="5">
+
+
+<div>
+<br /> 
+ <p>
+    <a href="http://facebook.com/massmoca" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('facebook','','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/facebook-2.gif',1)"><img src="http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/facebook-1.gif" alt="facebook" name="facebook" width="42" height="41" border="0" id="facebook" /></a>
+    &nbsp; &nbsp;
+     <a href="http://twitter.com/mass_moca" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('twitter','','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/twitter-2.gif',1)"><img src="http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/twitter-1.gif" alt="twitter" name="twitter" width="42" height="41" border="0" id="twitter" /></a>
+    </p> 
+    
+  <p>
+ <a href="http://massmoca.tumblr.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tumblr','','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/tumblr-2.gif',1)"><img src="http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/tumblr-1.gif" alt="tumblr" name="tumblr" width="42" height="41" border="0" id="tumblr" /></a>  
+  &nbsp; &nbsp;
+  <a href=" http://pinterest.com/mass_moca/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pinterest','','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/pinterest-2.gif',1)"><img src="http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/pinterest-1.gif" alt="pinterest" name="pinterest" width="42" height="41" border="0" id="pinterest" /></a>
+  </p>  
+  
+  <p>
+   <a href="http://www.youtube.com/user/MASSM0CA/videos" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('youtube','','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/youtube-2.gif',1)"><img src="http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/youtube-1.gif" alt="tumblr" name="youtube" width="42" height="41" border="0" id="youtube" /></a>
+    &nbsp; &nbsp;
+  <a href="http://blog.massmoca.org/feed/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('RSS','','http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/rss-2.gif',1)"><img src="http://blog.massmoca.org/wp-content/themes/massmoca1-1/images/rss-1.gif" alt="RSS" name="RSS" width="42" height="41" border="0" id="RSS" /></a>
+ </p>
+  
+
+</div>
+
+
+
+
+		
+				
+<div><img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="1" height="5">
+		
+				<ul class="category-list"><b>ARCHIVES</b>
+					<li><a href='http://blog.massmoca.org/2014/'>2014</a></li>
+	<li><a href='http://blog.massmoca.org/2013/'>2013</a></li>
+	<li><a href='http://blog.massmoca.org/2012/'>2012</a></li>
+	<li><a href='http://blog.massmoca.org/2011/'>2011</a></li>
+	<li><a href='http://blog.massmoca.org/2010/'>2010</a></li>
+	<li><a href='http://blog.massmoca.org/2009/'>2009</a></li>
+	<li><a href='http://blog.massmoca.org/2008/'>2008</a></li>
+	<li><a href='http://blog.massmoca.org/2007/'>2007</a></li>
+</ul>
+	</div>			
+				
+<img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="1" height="25">
+
+
+
+					
+	<div>
+	<a href="http://blog.massmoca.org/feed/"><img src="http://blog.massmoca.org/wp-includes/images/rss.png" border="0"></a>&nbsp;<a href="http://blog.massmoca.org/feed/" class="blog-post-data">RSS Feed</a>
+	</div>
+				
+				
+	</div>
+	</table>		</td>
+		<td rowspan="2" bgcolor="#cccccc">&nbsp;</td>
+		<td width="520" rowspan="2" valign="top" align="left">
+		
+
+<table width="520" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="5" height="5">
+			<img src="/wp-content/themes/massmoca1-1/images/sidenav-corner-topleft.gif" width="5" height="5"></td>
+		<td width="510" height="5" bgcolor="#FFFFFF">
+			<img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="1" height="1" border="0"></td>
+
+		<td width="5" height="5">
+			<img src="/wp-content/themes/massmoca1-1/images/sidenav-corner-topright.gif" width="5" height="5"></td>
+	</tr>
+	<tr>
+		<td width="5" bgcolor="#FFFFFF">
+			<img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="5" height="1" border="0"></td>
+								<td width="510" bgcolor="#FFFFFF" style="right-margin: 20px;">
+		
+
+<div id="content" class="content">
+
+	
+		<h2 class="center">Not Found</h2>
+		<p class="center">Sorry, but you are looking for something that isn't here.</p>
+	
+
+
+	
+			</div>
+	
+	
+	
+		<img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="1" height="1" border="0"><br>		</td>
+		  </tr>
+
+	<tr>
+		<td width="5" height="5">
+			<img src="/wp-content/themes/massmoca1-1/images/sidenav-corner-bottomleft.gif" width="5" height="5"></td>
+		<td width="510" height="5" bgcolor="#FFFFFF">
+			<img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="1" height="1" border="0"></td>
+		<td width="5" height="5">
+			<img src="/wp-content/themes/massmoca1-1/images/sidenav-corner-bottomright.gif" width="5" height="5"></td>
+	</tr>
+</table></td>		
+			
+<td bgcolor="#cccccc" rowspan="2">&nbsp;</td>
+<td bgcolor="#cccccc" background="/wp-content/themes/massmoca1-1/images/rightedge-tile.gif"  rowspan="4">&nbsp;</td>
+</tr>
+<tr><td bgcolor="#cccccc">&nbsp;</td></tr>
+<tr>
+  <td height="10" colspan="5" bgcolor="#cccccc"><img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="760" height="25" /></td>
+  </tr>
+<tr>
+  <td height="150" valign="top" colspan="5" bgcolor="#cccccc"><link href="style.css" rel="stylesheet" type="text/css" />
+
+
+
+  <table width="700" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="30" valign="top"><img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="1" /></td>
+      <td width="58" valign="top"><div align="left"><a href="http://www.massmoca.org"><img src="/wp-content/themes/massmoca1-1/images/m_webfooter.gif" alt="MASS MoCA" border="0" align="left" /></a></div></td>
+      <td width="10" valign="top"><img src="/wp-content/themes/massmoca1-1/images/spacer.gif" width="1" />    </td>
+      <td width="602" valign="top"><p align="left" class="home-gray-footer">1040 MASS MoCA WAY&nbsp;&nbsp;&nbsp;&nbsp;NORTH ADAMS, MA 01247&nbsp;&nbsp;&nbsp;&nbsp;413.MoCA.111&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:info@massmoca.org" class="footer-link">INFO@MASSMoCA.ORG</a><br /><br />COPYRIGHT &copy; 2014 MASSACHUSETTS MUSEUM OF CONTEMPORARY ART <br />
+        READ OUR <a href="privacy.php" class="footer-link">PRIVACY POLICY</a> &nbsp;&nbsp; VISIT OUR <a href="sitemap.php" class="footer-link">SITE MAP</a></span></p>
+        <p align="left" class="home-gray-footer">POWERED BY <a href="http://www.wordpress.org" target="_blank" class="footer-link">WORDPRESS</a></p></td>
+    </tr>
+  </table>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3104601-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
+

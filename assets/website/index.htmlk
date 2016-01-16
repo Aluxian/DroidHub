@@ -1,0 +1,357 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<!-- Title -->
+<title>Droid Hub | All-in-one center for Call Logs, Text Messages, Twitter Mentions & DMs, Emails</title>
+<!--  Meta  -->
+<meta name="description" content="Droid Hub is an all-in-one center for Call Logs, Text Messages, Twitter Mentions & DMs, Emails">
+<meta name="author" content="Aluxian Apps">
+<!-- viewport for mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+<link rel="stylesheet" href="css/reset.css">
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/prettyPhoto.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/media.css">
+<link rel="stylesheet" href="css/flexslider.css">
+<link rel="stylesheet" href="css/color-themes/orange.css">
+<!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--  IE8 fixes -->
+<!--[if IE 8]>
+  <link rel="stylesheet" href="css/ie8.css">
+<![endif]-->
+
+<link rel="shortcut icon" href="images/favicon.png">
+
+</head>
+<body>
+
+<!-- BEGIN HEADER -->
+<header id="header">
+    <div class="container">
+      <div class="row">
+      
+      <!-- BEGIN SLIDER CONTAINER -->
+        <div id="slider-container">
+         
+          <div class="span6 animated fadeInUp rotateInUpLeft delay2s">
+            <!-- BEGIN NEXUS 4 SLIDER -->
+            <div id="nexus4-slider">
+            <div class="flexslider">
+                <ul class="slides">
+                  <li style="width: 100%; float: left; margin-right: -100%; position: relative; display: none;" class="">
+                    <img src="images/slides/3.png" alt="slider">
+                  </li>
+                  <li style="width: 100%; float: left; margin-right: -100%; position: relative; display: list-item;" class="flex-active-slide">
+                    <img src="images/slides/1.png" alt="slider">
+                  </li>
+                  <li style="width: 100%; float: left; margin-right: -100%; position: relative; display: none;" class="">
+                    <img src="images/slides/2.png" alt="slider">
+                  </li>
+                </ul>
+              <ul class="flex-direction-nav"><li><a class="flex-prev" href="#">Previous</a></li><li><a class="flex-next" href="#">Next</a></li></ul></div>
+            </div><!-- END NEXUS 4 SLIDER -->
+          </div><!-- END SPAN6 -->
+          
+          
+          <div class="span6 animated fadeInRight delay3s">
+           <!-- BEGIN SLIDER DESCRIPTION -->
+            <div id="slider-description">
+          
+              <h2>Everything. In one place.</h2>
+              
+              <p>Droid Hub is an all-in-one center for Call Logs, Text Messages, Twitter Mentions &amp; DMs, Emails and more!</p>
+                 
+              <a class="download-btn googleplay" href="http://droidhub.me/app"></a> 
+                                    
+            </div><!-- END SLIDER DESCRIPTION -->
+           
+          </div><!-- END SPAN6 -->
+        </div><!-- END SLIDER CONTAINER -->
+      </div><!-- END ROW -->
+    </div><!-- END CONTAINER -->
+    
+  <div class="clear"></div>
+</header>
+<!-- END HEADER -->
+
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="span4">
+      
+      
+       <!-- BEGIN SERVICE BOX -->
+       <div class="rnr-service-box-center">
+          <!-- BEGIN SERVICE ICON -->
+          <div class="rnr-service-box-icon">
+             <img class="s_call" src="images/icons/flat-icons/1.png" alt="Incredibly Beautiful UI"/>
+          </div>
+          <!-- END SERVICE ICON -->
+          
+          <!-- BEGIN SERVICE CONTENT -->          
+          <div class="rnr-service-box-content">
+            <h3 class="rnr-service-box-title">Incredibly Beautiful UI</h3>
+            <p>Every colour, element or interaction has been thoughtfully designed to be beautiful and easy to use</p>
+          </div>
+          <!-- END SERVICE CONTENT -->
+      </div>
+      <!-- END SERVICE BOX -->
+      
+   </div>
+   
+  <div class="span4">
+      
+      
+       <!-- BEGIN SERVICE BOX -->
+       <div class="rnr-service-box-center">
+          <!-- BEGIN SERVICE ICON -->
+          <div class="rnr-service-box-icon">
+             <img class="s_sms" src="images/icons/flat-icons/13.png" alt="Everything, at your fingertips">
+          </div>
+          <!-- END SERVICE ICON -->
+          
+          <!-- BEGIN SERVICE CONTENT -->          
+          <div class="rnr-service-box-content">
+            <h3 class="rnr-service-box-title">Everything, at your fingertips</h3>
+            <p>Forget additional apps! Tweets, Emails, and soon-to-come Facebook conversations, are all here - in Droid Hub</p>
+          </div>
+          <!-- END SERVICE CONTENT -->
+      </div>
+      <!-- END SERVICE BOX -->
+      
+      
+  </div>
+  
+  <div class="span4">
+      
+      
+       <!-- BEGIN SERVICE BOX -->
+       <div class="rnr-service-box-center">
+          <!-- BEGIN SERVICE ICON -->
+          <div class="rnr-service-box-icon">
+             <img class="s_twitter" src="images/icons/flat-icons/14.png" alt="It's all about you">
+          </div>
+          <!-- END SERVICE ICON -->
+          
+          <!-- BEGIN SERVICE CONTENT -->          
+          <div class="rnr-service-box-content">
+            <h3 class="rnr-service-box-title">It's all about you</h3>
+            <p>We want you to love Droid Hub. You don't like a colour? We'll change it. Think a button is misplaced? We'll change it. Just tell us by <a href="http://droidhub.me/app" target="_blank">writing a review in the Play Store</a></p>
+          </div>
+          <!-- END SERVICE CONTENT -->
+      </div>
+      <!-- END SERVICE BOX -->
+      
+      
+  </div>
+  
+ 
+    </div> <!-- END ROW -->
+  </div> <!-- END CONTAINER -->
+</section><!-- END SERVICE BOX SECTION -->
+
+<!-- BEGIN FULLWIDTH SECTION -->
+<section class="fullwidth">
+      <div class="container">
+        <div class="row">
+        
+          <div class="span6">
+           <!-- BEGIN FULLWIDTH IMAGE CONTAINER -->
+            <div class="img-container">
+             <img src="images/slides/info-1.png" alt="image_one"/>
+            </div>
+           <!-- END FULLWIDTH IMAGE CONTAINER -->
+          </div>
+          
+                  
+          <div class="span6">
+           <!-- BEGIN FULLWIDTH TEXT CONTAINER -->          
+           <div class="text-container">
+           
+                <h2>Features</h2>
+                
+              <!-- BEGIN SERVICE BOX TYPE LEFT --> 
+              <div class="rnr-service-box-left">
+                  <!-- BEGIN SERVICE BOX TYPE LEFT ICON --> 
+                  <div class="rnr-service-box-icon">
+                    <img src="images/icons/flat-icons/2.png" alt="Build">
+                  </div>
+                  <!-- END SERVICE BOX TYPE LEFT ICON --> 
+              
+                  <!-- BEGIN SERVICE BOX TYPE LEFT CONTENT --> 
+                  <div class="rnr-service-box-content">
+                    <h3 class="rnr-service-box-title">Call Logs</h3>
+                    <p>See who called you, when and how much you talked. Calling them back is just a touch away.</p>
+                  </div>
+                  <!-- END SERVICE BOX TYPE LEFT CONTENT --> 
+              </div> 
+              <!-- END SERVICE BOX TYPE LEFT -->    
+              
+              
+              
+              <!-- BEGIN SERVICE BOX TYPE LEFT --> 
+              <div class="rnr-service-box-left">
+                  <!-- BEGIN SERVICE BOX TYPE LEFT ICON --> 
+                  <div class="rnr-service-box-icon">
+                    <img src="images/icons/flat-icons/11.png" alt="Build">
+                  </div>
+                  <!-- END SERVICE BOX TYPE LEFT ICON --> 
+              
+                  <!-- BEGIN SERVICE BOX TYPE LEFT CONTENT --> 
+                  <div class="rnr-service-box-content">
+                     <h3 class="rnr-service-box-title">Text Messages</h3>
+                     <p>Read every message. Is it urgent? Call, or just reply.</p>
+                  </div>
+                  <!-- END SERVICE BOX TYPE LEFT CONTENT --> 
+              </div> 
+              <!-- END SERVICE BOX TYPE LEFT -->     
+              
+              
+              <!-- BEGIN SERVICE BOX TYPE LEFT --> 
+              <div class="rnr-service-box-left">
+                  <!-- BEGIN SERVICE BOX TYPE LEFT ICON --> 
+                  <div class="rnr-service-box-icon">
+                    <img src="images/icons/flat-icons/10.png" alt="Build"></div>
+            
+                <div class="rnr-service-box-content">
+                <h3 class="rnr-service-box-title">Twitter</h3>
+                <p>Receive all your mentions and direct messages, in one place. Be quick and tweet back.</p>
+                  </div>
+                  <!-- END SERVICE BOX TYPE LEFT CONTENT --> 
+              </div> 
+              <!-- END SERVICE BOX TYPE LEFT -->   
+              
+              
+              <!-- BEGIN SERVICE BOX TYPE LEFT --> 
+              <div class="rnr-service-box-left">
+                  <!-- BEGIN SERVICE BOX TYPE LEFT ICON --> 
+                  <div class="rnr-service-box-icon">
+                    <img src="images/icons/flat-icons/12.png" alt="Build">
+                  </div>
+                  <!-- END SERVICE BOX TYPE LEFT ICON --> 
+              
+                  <!-- BEGIN SERVICE BOX TYPE LEFT CONTENT --> 
+                  <div class="rnr-service-box-content">
+                     <h3 class="rnr-service-box-title">Email</h3>
+                     <p>From newsletters to friend request notifications, easily view every new email in your inbox.</p>
+                  </div>
+                  <!-- END SERVICE BOX TYPE LEFT CONTENT --> 
+              </div> 
+              <!-- END SERVICE BOX TYPE LEFT -->    
+              
+            
+           </div><!-- END FULLWIDTH TEXT CONTAINER -->  
+          </div><!-- END SPAN -->          
+
+        </div><!-- END ROW -->  
+      </div><!-- END CONTAINER -->            
+</section>
+<!-- END FULLWIDTH SECTION -->  
+
+<!-- BEGIN TEAM SECTION -->
+<section class="about-team">
+        <div class="container">   
+            <div class="row"> 
+              <div class="span12" style="text-align:center;"> 
+              
+              <!-- BEGIN FANCY HEADER -->
+              <div class="fancy-header">       
+                   <h4>Meet our team</h4>
+                   <h2>We're passionate about what we do, no detail is too small or insignificant.</h2>
+              </div>
+              <!-- END FANCY HEADER-->
+              
+              
+              <div class="team-wrapper">
+                <!-- BEGIN TEAM MEMBER -->   
+                <div class="team-member">
+                  <!-- BEGIN TEAM IMAGE -->
+                  <div class="team-thumb">
+                    <img src="images/team/alexandru.jpg" alt="team" width="426" height="424">
+                  </div>
+                  <!-- END TEAM IMAGE -->
+                  
+                  <!-- BEGIN TEAM DESCRIPTION -->
+                  <div class="team-desc">
+                    <h5>Alexandru Rosianu<span> / Development</span></h5>
+                    <a href="mailto:alexandru.rosianu@droidhub.me"><span class="follow-twitter"></span>Suggestions? Get in touch with me!</a>
+                  </div>     
+                  <!-- END TEAM DESCRIPTION -->     
+                </div>   
+                <!-- END TEAM MEMBER -->  
+
+
+                <!-- BEGIN TEAM MEMBER -->   
+                <div class="team-member">
+                
+                  <!-- BEGIN TEAM IMAGE -->
+                  <div class="team-thumb">
+                    <img src="images/team/alex.jpg" alt="team" width="426" height="424">
+                  </div>
+                  <!-- END TEAM IMAGE -->
+                  
+                  <!-- BEGIN TEAM DESCRIPTION -->
+                  <div class="team-desc">
+                    <h5>Alex Popovici<span> / Business</span></h5>
+                    <a href="mailto:alex.popovici@droidhub.me"><span class="follow-twitter"></span>Proposals? Get in touch with me!</a>
+                  </div>     
+                  <!-- END TEAM DESCRIPTION -->   
+                  
+                </div>   
+                <!-- END TEAM MEMBER -->  
+                </div>
+                 
+                
+              
+              </div><!-- END SPAN -->
+            </div><!-- END ROW -->     
+     
+    </div><!-- END CONTAINER -->   
+  </section>
+  <!-- END TEAM SECTION --> 
+
+
+
+<!-- BEGIN FOOTER -->
+<footer>
+</br>
+</br>
+<center><h4>Your feedback is highly appreciated! You can reach us at <a href="mailto:contact@droidhub.me">contact@droidhub.me</a></h4></center>
+<!-- BEGIN COPYRIGHT SECTION -->
+<section class="copyright">
+    <div class="container">
+      <div class="row">
+        <div class="span12">
+              <!-- BEGIN FOOTER LOGO -->
+              <div id="logo">
+                <p><a href="#" class="logo"><img src="images/logo.png" alt="logo"/></a>
+              </div>  
+              <!-- END FOOTER LOGO -->
+        </div><!-- END SPAN -->
+      </div><!-- END ROW -->
+    </div><!-- END CONTAINER -->
+  <div class="clear"></div>
+</section><!-- END COPYRIGHT SECTION -->
+</footer><!-- END FOOTER -->
+
+<!-- JAVASCRIPTS -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script><!-- jQuery main file -->
+<script src="js/jquery.prettyPhoto.js" type="text/javascript"></script>
+<script src="js/jquery.flexslider.js" type="text/javascript"></script>
+<script src="js/jquery.quovolver.js" type="text/javascript"></script>
+<script src="js/jquery.tweet.js" type="text/javascript"></script>
+<script src="js/jquery.form.js" type="text/javascript"></script>
+<script src="js/scripts.js" type="text/javascript"></script>
+
+</body>
+</html>
